@@ -10,13 +10,14 @@ Changing from Colemak to Colemak DH(m).
 # TODO
 - [X] Update build.yaml to use the corne 5 column keyboard (look at the typeractive.xyz github for their build.yml settings)
 
+- [ ] Figure out what to do with the extra thumb keys make sure the keymaps are updated for 36 keys and not 34 before building...
+
 - [ ] Setup github actions to build the firmware.
 
 - [ ] Switch the base layer from colemak to colemak dh(m)
 
 - [ ] re-map thumb keys to match the advantage 360
 
-- [ ] Figure out what to do with the extra thumb keys
 
 - [ ] update nav layer to use arrow keys in inverted T
 
