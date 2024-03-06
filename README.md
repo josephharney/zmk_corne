@@ -14,6 +14,8 @@ Changing from Colemak to Colemak DH(m).
 
 - [ ] Switch the base layer from colemak to colemak dh(m)
 
+- [ ] re-map thumb keys to match the advantage 360
+
 - [ ] Figure out what to do with the extra thumb keys
 
 - [ ] update nav layer to use arrow keys in inverted T
@@ -27,3 +29,5 @@ Changing from Colemak to Colemak DH(m).
 - [ ] Look into tap downs or hold downs for keyboard shortcuts
 
 - [ ] think about using the meh key for fancy macros and custom keyboard shortcuts.
+
+
