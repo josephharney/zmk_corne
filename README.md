@@ -8,7 +8,7 @@ Changing from Colemak to Colemak DH(m).
 
 
 # TODO
-- [ ] Update build.yaml to use the corne 5 column keyboard (look at the typeractive.xyz github for their build.yml settings)
+- [X] Update build.yaml to use the corne 5 column keyboard (look at the typeractive.xyz github for their build.yml settings)
 
 - [ ] Setup github actions to build the firmware.
 
